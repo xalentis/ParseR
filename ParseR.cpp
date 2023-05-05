@@ -1,4 +1,6 @@
 // Gideon Vos Dec 2021
+// linkedin.com/in/gideonvos
+// (c) Xalentis Pty. Ltd. www.xalentis.com
 
 #include <iostream>
 #include <string>
